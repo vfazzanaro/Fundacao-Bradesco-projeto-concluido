@@ -4,4 +4,4 @@
 
 <h2> Utilizado HTML CSS e JAVASCRIPT</h2>
 <p> Botão para troca de temas para escuro e claro </p>
-<img src="https://github.com/vfazzanaro/desafio-css/blob/main/desafiocss.PNG?raw=true" />
+<img src="" />
